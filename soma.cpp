@@ -8,15 +8,15 @@ int main() {
 	int x, y;
 	int soma;
 
-	cout << "Foneça um número: ";
+	cout << "FoneÃ§a um nÃºmero: ";
 	cin >> x;
 
-	cout << "Forneça outro número: ";
+	cout << "ForneÃ§a outro nÃºmero: ";
 	cin >> y;
 
 	soma = x + y;
 
 	cout << "Resultado da soma: " << soma;
 
-	return 0;
+return 0;
 }
