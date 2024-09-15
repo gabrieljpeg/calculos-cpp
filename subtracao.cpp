@@ -9,14 +9,14 @@ int main () {
 	int x, y;
 	int sub;
 
-	cout << "Foneça um número: ";
+	cout << "FoneÃ§a um nÃºmero: ";
 	cin >> x;
 
-	cout << "Forneça outro número: ";
+	cout << "ForneÃ§a outro nÃºmero: ";
 	cin >> y;
 
 	sub = x - y;
-	cout << "Resultado da subtração: " << sub;
+	cout << "Resultado da subtraÃ§Ã£o: " << sub;
 
 return 0;
 
